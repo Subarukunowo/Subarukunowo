@@ -3,8 +3,9 @@
 <p align="center">Yoroshiku Onegaishimasu!</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Subarukunowo&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subarukunowo&layout=compact&theme=radical" />
+
 </p>
 
 ---
