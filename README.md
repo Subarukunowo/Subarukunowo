@@ -3,10 +3,7 @@
 
 <br>
 
-<div align="center">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Subarukunowo&theme=radical&show_icons=true" />
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subarukunowo&layout=compact&theme=radical" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Subarukunowo&show_icons=true&theme=radical" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subarukunowo&layout=compact&theme=radical" height="180"/>
 
 <br>
 
