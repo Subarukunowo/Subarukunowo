@@ -15,7 +15,7 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="40" height="40"/>
 
        
 </p>
@@ -32,12 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" />
-</p>
-
----
-
-<p align="center">
-  <img src="[https://i.imgur.com/jx17oHT.gif](https://ih1.redbubble.net/image.4430053313.8935/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg)" width="250px" />
+  <img src="https://media.tenor.com/9RyaPOl1HuYAAAAi/tachibana-hikari-tachibana-nozomi.gif" width="250px" />
 </p>
 
 ---
