@@ -19,6 +19,8 @@
 
        
 </p>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;>
+  <div>
 
 ### 📘 Studying in this moment:
 <p>
@@ -34,7 +36,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" />
   <img src="https://media.tenor.com/9RyaPOl1HuYAAAAi/tachibana-hikari-tachibana-nozomi.gif" width="250px" />
 </p>
-
+</div>
+  <img src="https://media.tenor.com/9RyaPOl1HuYAAAAi/tachibana-hikari-tachibana-nozomi.gif" width="250" style="margin-top: 20px;" />
+  </div>
 ---
 
 ### 📫 Connect with me:
