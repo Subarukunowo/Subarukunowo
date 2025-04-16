@@ -20,7 +20,6 @@
        
 </p>
 
----
 ### 📘 Studying in this moment:
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
@@ -28,13 +27,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
 </p>
 
----
+
 ### ⚒️ Tools:
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" />
-  <img src="https://media.tenor.com/9RyaPOl1HuYAAAAi/tachibana-hikari-tachibana-nozomi.gif" width="250px" />
+
+</p>
+<p align="right">
+  <img src="images/blue-archive-hikari.gif" width="250px" />
 </p>
 
 
