@@ -20,11 +20,13 @@
 [<img height="48px" width="48px" alt="Flutter" src="https://skillicons.dev/icons?i=flutter"/>](https://flutter.dev)
 [<img height="48px" width="48px" alt="Dart" src="https://skillicons.dev/icons?i=dart"/>](https://dart.dev)
 [<img height="48px" width="48px" alt="C++" src="https://skillicons.dev/icons?i=cpp"/>](https://isocpp.org)
-
+[<img height="48px" width="48px" alt="C++" src="https://skillicons.dev/icons?i=python"/>](https://python.org)
 #### Tools:
 [<img height="48px" width="48px" alt="VS Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
 [<img height="48px" width="48px" alt="Git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
 [<img height="48px" width="48px" alt="Android Studio" src="https://skillicons.dev/icons?i=androidstudio"/>](https://developer.android.com/studio)
+[<img height="48px" width="48px" alt="Android Studio" src="https://skillicons.dev/icons?i=idea"/>](https://jetbrains.com)
+
 
 <br>
 
