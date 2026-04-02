@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Subarukunowo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subarukunowo&layout=compact&theme=radical&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,css" height="180"/>
+  ![SubarukunOwO's GitHub stats](https://github-readme-stats.vercel.app/api?username=Subarukunowo&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 </p>
 
 <p align="center">
