@@ -1,6 +1,15 @@
 <h1 align="center">Hi, I'm SubarukunOwO 🚀</h1>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=Subarukunowo&show_icons=true&theme=radical" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subarukunowo&layout=compact&theme=radical&exclude_repo=repo1,repo2&hide=html,css" height="180"/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Subarukunowo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subarukunowo&layout=compact&theme=radical&langs_count=8" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Subarukunowo&theme=radical&hide_border=false" height="180"/>
+</p>
+
 <br>
 
 ## Language and Tools
@@ -19,6 +28,7 @@
 #### Currently Learning:
 [<img height="48px" width="48px" alt="C++" src="https://skillicons.dev/icons?i=cpp"/>](https://isocpp.org)
 [<img height="48px" width="48px" alt="Python" src="https://skillicons.dev/icons?i=python"/>](https://python.org)
+[<img height="48px" width="48px" alt="C#" src="https://skillicons.dev/icons?i=cs"/>](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 #### Tools:
 [<img height="48px" width="48px" alt="VS Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
