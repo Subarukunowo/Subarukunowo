@@ -30,7 +30,7 @@
 [<img height="48px" width="48px" alt="C++" src="https://skillicons.dev/icons?i=cpp"/>](https://isocpp.org)
 [<img height="48px" width="48px" alt="Python" src="https://skillicons.dev/icons?i=python"/>](https://python.org)
 [<img height="48px" width="48px" alt="C#" src="https://skillicons.dev/icons?i=cs"/>](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[<img height="48px" width="48px" alt="SQL Server" src="https://skillicons.dev/icons?i=mssql"/>](https://www.microsoft.com/en-us/sql-server)
+[<img height="48px" width="48px" alt="SQL Server" src="https://img.icons8.com/color/1200/microsoft-sql-server.jpg"/>](https://www.microsoft.com/en-us/sql-server)
 #### Tools:
 [<img height="48px" width="48px" alt="VS Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
 [<img height="48px" width="48px" alt="Git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
