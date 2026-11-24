@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Subarukunowo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stavts.vercel.app/api/top-langs/?username=Subarukunowo&layout=compact&theme=radical&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,css" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subarukunowo&layout=compact&theme=radical&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,css" height="180"/>
 
 </p>
 
@@ -25,12 +25,16 @@
 #### Backend & Web:
 [<img height="48px" width="48px" alt="Laravel" src="https://skillicons.dev/icons?i=laravel"/>](https://laravel.com)
 [<img height="48px" width="48px" alt="PHP" src="https://skillicons.dev/icons?i=php"/>](https://php.net)
+[<img height="48px" width="48px" alt="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind"/>](https://tailwindcss.com)
+
+#### Database:
+[<img height="48px" width="48px" alt="MySQL" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com)
+[<img height="48px" width="48px" alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres"/>](https://www.postgresql.org)
 
 #### Currently Learning:
-[<img height="48px" width="48px" alt="C++" src="https://skillicons.dev/icons?i=cpp"/>](https://isocpp.org)
-[<img height="48px" width="48px" alt="Python" src="https://skillicons.dev/icons?i=python"/>](https://python.org)
 [<img height="48px" width="48px" alt="C#" src="https://skillicons.dev/icons?i=cs"/>](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [<img height="48px" width="48px" alt="SQL Server" src="https://img.icons8.com/color/1200/microsoft-sql-server.jpg"/>](https://www.microsoft.com/en-us/sql-server)
+
 #### Tools:
 [<img height="48px" width="48px" alt="VS Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
 [<img height="48px" width="48px" alt="Git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
