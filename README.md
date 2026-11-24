@@ -16,7 +16,7 @@
 ## Language and Tools
 <img src="images/blue-archive-hikari.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="BA Hikari">
 
-#### Main Stack:
+#### Mobile:
 [<img height="48px" width="48px" alt="Flutter" src="https://skillicons.dev/icons?i=flutter"/>](https://flutter.dev)
 [<img height="48px" width="48px" alt="Dart" src="https://skillicons.dev/icons?i=dart"/>](https://dart.dev)
 [<img height="48px" width="48px" alt="Java" src="https://skillicons.dev/icons?i=java"/>](https://www.java.com)
